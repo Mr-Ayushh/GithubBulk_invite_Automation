@@ -47,7 +47,6 @@ We welcome contributions! If you have ideas or improvements, feel free to fork t
 
 For any questions or feedback, please reach out:
 
-- **Email**: contact@codewithtechries.com
 - **GitHub**: [CodeWithTechries](https://github.com/CodeWithTechries)
 
 Thank you for being a part of our community! Let's build amazing projects together! 🚀✨
